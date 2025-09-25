@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(../imagens/fundo-madeira.jpg);
+}
+
+iframe{
+    background-image: url(../imagens/frame-iphone.png);
+    width:310px;
+    height: 625px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
