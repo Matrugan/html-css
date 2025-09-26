@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 *{
-    margin: 0px;
+    margin: auto;
     padding: 0px;
 }
 
@@ -13,6 +13,13 @@ iframe{
     background-image: url(../imagens/frame-iphone.png);
     width:310px;
     height: 625px;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    margin: 0px;
+    justify-items: right;
 }
 
 img{
